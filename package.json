@@ -1,0 +1,11 @@
+{
+  "name": "tut01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/scionescio/tut01.git",
+  "license": "MIT",
+  "dependencies": {
+    "dom-parser": "^0.1.5",
+    "fs": "^0.0.1-security"
+  }
+}
